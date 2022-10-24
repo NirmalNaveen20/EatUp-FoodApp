@@ -9,12 +9,12 @@
 
     <ImageView
         android:id="@+id/register_applogo"
-        android:layout_width="300dp"
-        android:layout_height="100dp"
-        android:src="@drawable/applogo"
+        android:layout_width="399dp"
+        android:layout_height="364dp"
+        android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="150dp"
-        />
+        android:layout_marginTop="53dp"
+        android:src="@drawable/logo" />
 
     <EditText
         android:id="@+id/register_username_input"

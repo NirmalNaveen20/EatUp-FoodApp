@@ -8,17 +8,15 @@
     tools:context=".Admin.AdminAddNewProductActivity">
 
 
-
     <ImageView
         android:id="@+id/select_product_image"
         android:layout_width="350dp"
         android:layout_height="200dp"
-        android:cropToPadding="false"
-        android:scaleType="centerCrop"
-        android:src="@drawable/select_product_image"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="10dp"
-        />
+        android:cropToPadding="false"
+        android:scaleType="centerCrop"
+        android:src="@drawable/select_product_image" />
 
 
     <EditText
