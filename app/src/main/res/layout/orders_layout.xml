@@ -76,13 +76,12 @@
             android:layout_height="wrap_content"
             android:layout_below="@+id/order_date_time"
             android:layout_marginLeft="20dp"
-            android:layout_marginRight="20dp"
             android:layout_marginTop="20dp"
+            android:layout_marginRight="20dp"
             android:background="@android:color/white"
-            android:text="Show this order products"
+            android:text="Show this food items"
             android:textColor="@color/colorPrimaryDark"
-            android:textSize="18dp"
-            />
+            android:textSize="18dp" />
     </RelativeLayout>
 
 </RelativeLayout>
